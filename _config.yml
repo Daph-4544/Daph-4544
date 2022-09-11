@@ -1,2 +1,3 @@
 namw: Dafine Matagi
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
